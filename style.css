@@ -1,0 +1,53 @@
+/* body {
+    background-color: blueviolet;
+} */
+
+#container {
+    margin: 0 auto;
+    max-width: 700px;
+    min-width: 300px;
+    background-color: blueviolet;
+    color: white;
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
+#top {
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+#main {
+    width: 100%;
+}
+
+#bottom {
+    width: 100%;
+    text-align: center;
+}
+
+#container2 {
+    margin: 0 auto;
+    max-width: 700px;
+    min-width: 300px;
+}
+
+#tick {
+    width: 100%;
+    font-size: 100px;
+    color: green;
+    border: 2px solid green;
+    border-radius: 50%;
+}
+
+#thanks {
+    width: 100%;
+}
+
+#responseWords {
+    width: 100%;
+}
